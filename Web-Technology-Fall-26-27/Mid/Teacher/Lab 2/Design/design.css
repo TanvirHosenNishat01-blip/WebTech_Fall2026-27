@@ -1,0 +1,19 @@
+legend{
+    background-color: blanchedalmond;
+    font: bold;
+    border:10px;
+    border-color: aquamarine;
+    border-radius: 20%;
+}
+
+fieldset{
+    background-color: azure;
+    font:bolder
+}
+
+img{
+    background-position: center;
+    border-radius: 50%;
+    position: center;
+    position:center;
+}
